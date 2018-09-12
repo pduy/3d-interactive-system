@@ -17,3 +17,6 @@ https://link.springer.com/chapter/10.1007/978-3-642-39640-3_29
 
 Restoring surfaces after removing objects in indoor 3D point clouds
 https://dl.acm.org/citation.cfm?id=2542088&dl=ACM&coll=DL
+
+Demo:
+https://youtu.be/ZmjLg72PKvI
