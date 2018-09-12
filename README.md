@@ -10,3 +10,10 @@ Functionalities:
   restoring the surfaces.
 
 The code can be built using Cmake.
+
+Published papers from this work:
+An Interactive System Building 3D Environment Using a Moving Depth Sensor
+https://link.springer.com/chapter/10.1007/978-3-642-39640-3_29
+
+Restoring surfaces after removing objects in indoor 3D point clouds
+https://dl.acm.org/citation.cfm?id=2542088&dl=ACM&coll=DL
